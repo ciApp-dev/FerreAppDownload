@@ -2,4 +2,5 @@
   "version": "1.2.0",
   "url": "https://github.com/ciApp-dev/FerreAppDownload/releases/download/1.2.1/FerrepinturaApp_updater_2.exe",
   "notes": "Corrección de bugs y mejoras en rendimiento"
+  "sql":"https://raw.githubusercontent.com/ciApp-dev/FerreAppDownload/refs/heads/main/1.1/script.sql"
 }
